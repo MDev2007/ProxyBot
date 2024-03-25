@@ -1,0 +1,8 @@
+PyTelegramBotAPI
+pymongo
+requests
+python-dotenv
+aiocron
+pytz
+datetime
+jdatetime
