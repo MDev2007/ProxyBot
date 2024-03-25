@@ -39,14 +39,6 @@ def startBOT(Message) :
 
 # ||||||||||||||||| #
 
-# @Api.channel_post_handler()
-# def install_Bot(Message)  :
-#     if Message.text == "/install" :
-#         install_bot(Message)
-#     # ============= #
-#     elif Message.text == "تنظیم جوین اجباری" :
-#         add_channel(Message)
-
 
 # ===================== #
     
